@@ -61,5 +61,5 @@ jobs:
         ftp-username: ${{ secrets.FTP_USERNAME }}
         ftp-password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ./  # Direktori lokal yang akan diupload
-        server-dir: /test.nuazsa.my.id/nurazissaputra
+        server-dir: test.nuazsa.my.id/nurazissaputra
         method: ftp
